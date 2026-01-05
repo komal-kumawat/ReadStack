@@ -15,7 +15,7 @@ export default function Home() {
             key={index}
             className="bg-[#181818] rounded-2xl p-7 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(0,0,0,0.6)]"
           >
-            <span className="text-xs tracking-widest uppercase text-emerald-400">
+            <span className="text-xs tracking-widest uppercase text-emerald-300">
               {blog.type}
             </span>
 
