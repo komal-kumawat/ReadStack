@@ -1,0 +1,74 @@
+[
+  {
+    "type": "essay",
+    "title": "The Beauty of Nature",
+    "slug": "the-beauty-of-nature",
+    "content": "Nature has always been a source of inspiration and calm. From the gentle rustle of leaves to the mighty roar of oceans, it teaches us patience, resilience, and appreciation for life’s simple pleasures."
+  },
+  {
+    "type": "story",
+    "title": "The Lost Key",
+    "slug": "the-lost-key",
+    "content": "Once upon a time in a small village, a young girl named Mira found an old, rusty key buried under an oak tree. Curious, she searched for what it could unlock. Her journey led her to a secret library full of magical books."
+  },
+  {
+    "type": "poem",
+    "title": "Whispers of the Wind",
+    "slug": "whispers-of-the-wind",
+    "content": "Whispers of the wind,\nThrough the trees they glide,\nCarrying tales untold,\nAcross the countryside.\n\nGentle as a feather,\nStrong as the tide,\nIt speaks to every heart,\nThat dares to confide."
+  },
+  {
+    "type": "book",
+    "title": "Review: Pride and Prejudice",
+    "slug": "review-pride-and-prejudice",
+    "content": "Jane Austen’s 'Pride and Prejudice' is a timeless exploration of love, societal expectations, and personal growth. The witty dialogue and memorable characters make it a masterpiece."
+  },
+  {
+    "type": "story",
+    "title": "The Midnight Garden",
+    "slug": "the-midnight-garden",
+    "content": "Leo discovered a hidden garden behind his grandmother’s house. At night, under the moonlight, the flowers glowed in colors he had never seen. Every visit revealed new wonders and secret paths."
+  },
+  {
+    "type": "essay",
+    "title": "The Importance of Reading",
+    "slug": "the-importance-of-reading",
+    "content": "Reading opens doors to knowledge, imagination, and empathy. Books allow us to live countless lives, explore diverse perspectives, and understand the world more deeply."
+  },
+  {
+    "type": "poem",
+    "title": "Sunset Dreams",
+    "slug": "sunset-dreams",
+    "content": "The sun dips low,\nSky painted in fire,\nDreams awaken,\nHearts inspired.\n\nEvening whispers softly,\nStories yet untold,\nMoments like these,\nNever growing old."
+  },
+  {
+    "type": "essay",
+    "title": "The Power of Music",
+    "slug": "the-power-of-music",
+    "content": "Music has the power to heal, inspire, and connect us. It transcends language and culture, evoking emotions that words often cannot. A single melody can change a person’s day or even their life."
+  },
+  {
+    "type": "story",
+    "title": "The Secret Door",
+    "slug": "the-secret-door",
+    "content": "While exploring the attic, Sam found a hidden door. Behind it was a spiral staircase that led to a forgotten observatory. Night after night, he mapped the stars and discovered a universe of secrets."
+  },
+  {
+    "type": "book",
+    "title": "Review: 1984",
+    "slug": "review-1984",
+    "content": "George Orwell’s '1984' is a chilling vision of a dystopian future, exploring surveillance, totalitarianism, and the power of truth. Its warnings remain relevant even today."
+  },
+  {
+    "type": "poem",
+    "title": "Rainy Reflections",
+    "slug": "rainy-reflections",
+    "content": "Raindrops patter softly,\nOn rooftops, streets, and leaves,\nEach drop a tiny mirror,\nOf dreams one believes.\n\nGray skies cradle thoughts,\nPondering what’s to come,\nIn the quiet drizzle,\nWe find ourselves at home."
+  },
+  {
+    "type": "essay",
+    "title": "The Joy of Travel",
+    "slug": "the-joy-of-travel",
+    "content": "Traveling broadens the mind and enriches the soul. Experiencing new cultures, cuisines, and landscapes awakens curiosity and helps us understand the world from different perspectives."
+  }
+]
