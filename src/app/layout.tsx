@@ -16,6 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ReadStack",
   description: "A blogging website",
+  icons:{
+    icon:"/icon.svg"
+  }
+  
 };
 
 export default function RootLayout({
