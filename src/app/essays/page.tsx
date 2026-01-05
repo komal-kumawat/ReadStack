@@ -9,7 +9,7 @@ export default function BooksPage() {
         My Essays
       </h1>
 
-      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 px-8 md:px-16 pb-16">
+      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 pb-16  max-w-5xl px-5 mx-auto">
         {blogs.map((blog, index) => (
           <div
             key={index}

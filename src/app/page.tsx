@@ -4,12 +4,12 @@ export default function Home() {
   const blogs = getAllBlogs();
 
   return (
-    <div className="min-h-screen bg-[#0f0f0f] text-gray-200">
+    <div className="min-h-screen bg-[#0f0f0f] text-gray-200 w-full">
       <h1 className="text-4xl font-semibold mb-12 text-center text-gray-100 pt-10">
         My Blogs
       </h1>
 
-      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 px-8 md:px-16 pb-16">
+      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 pb-16  max-w-5xl px-5 mx-auto">
         {blogs.map((blog, index) => (
           <div
             key={index}

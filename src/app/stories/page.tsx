@@ -9,7 +9,7 @@ export default function BooksPage() {
         My Stories
       </h1>
 
-      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 px-8 md:px-16 pb-16">
+      <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-10 max-w-5xl px-5 mx-auto pb-16">
         {blogs.map((blog, index) => (
           <div
             key={index}
